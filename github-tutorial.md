@@ -12,7 +12,7 @@ Imagine GitHub as **Google Docs on steroids**.
 - **Branch:** A parallel universe. It lets you create a safe space to experiment with changes without ruining the original file.
 - **Pull Request (PR):** Asking for permission to merge your experiment (branch) back into the main project.
 - **Merge:** Combining your approved changes into the main project.
-
+- **Clone:** Copying a remote repository to your local computer.
 ---
 
 ### Part 2: Your First Steps
